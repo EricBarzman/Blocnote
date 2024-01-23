@@ -1,0 +1,15 @@
+@use '@scssVariables' as v;
+
+body {
+    background-color: #306a66;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width : 50%;
+    height: 80  lvh;
+    margin: auto;
+    align-items: flex-end;
+}

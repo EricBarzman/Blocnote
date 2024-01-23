@@ -1,0 +1,19 @@
+.form {
+    &__input {
+        background-color: white;
+        border: 1px solid #0f423f;;
+        padding : 1rem;
+        margin-right: 2rem;
+        border-radius: 10px;
+    }
+
+    &__btn {
+        background-color: #0f423f;;
+        padding: 1rem;
+        border-radius: 10px;
+
+        &:hover {
+            background-color: #10312e;;
+        }
+    }
+}
